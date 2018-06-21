@@ -1,0 +1,15 @@
+.tabela {
+	margin: 0px 25% auto;
+	font-family: arial;
+}
+.tabela th{
+	padding: 5px 5px 5px 5px;
+}
+.tabela td{
+	padding: 5px 5px 5px 5px;
+}
+.tabela h1{
+	font-size: 18px;
+	text-align: center;
+	font-family: arial;
+}

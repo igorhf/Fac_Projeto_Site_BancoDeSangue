@@ -1,0 +1,18 @@
+.texto{	
+	text-align: justify;
+	font-family: arial;
+	font-size: 14px;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+.texto h1{
+	text-align: center;
+}
+.texto li{
+	
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.texto p{
+	text-indent: 5px;
+}
